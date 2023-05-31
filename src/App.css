@@ -1,8 +1,38 @@
+
 .App {
   text-align: center;
+  /* background: red; */
 }
 
-.App-logo {
+.Hero {
+  /* background: red; */
+  width:80%;
+  margin: auto;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.MyPic {
+  width: 50%;
+  /* background: blue; */
+  height: 80%;
+  float: right;
+}
+
+.MyText {
+  width: 50%;
+  /* background: red; */
+  height: 80%;
+  float: left;
+  margin: auto;
+}
+
+.MyPic img {
+  width: 100%;
+  height: 100%;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +65,5 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+
