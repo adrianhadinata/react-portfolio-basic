@@ -10,6 +10,7 @@
   margin: auto;
   overflow: hidden;
   height: 100vh;
+  margin-top: 50px;
 }
 
 .MyPic {
@@ -28,8 +29,11 @@
 }
 
 .MyPic img {
-  width: 100%;
+  width: 70%;
   height: 100%;
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
 }
 
 /* .App-logo {

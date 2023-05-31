@@ -58,7 +58,6 @@ function RightHero (){
 
 function ShowModal (e) {
   return alert('WA: 0858-0252-0642' + ' ('+ e +')')
-  // return console.log(e);
   
 }
 
